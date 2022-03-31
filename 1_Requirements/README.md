@@ -1,6 +1,3 @@
-
-77 lines (60 sloc)  3.95 KB
-   
 Requirements
 Introduction
 The growth in business also lead to the growth in the need of E-billing applications using Virtual Wallets where all the information regarding the customer transanctions in that departmental store can be maintained online.
