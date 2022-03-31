@@ -1,5 +1,7 @@
 Requirements
+
 Introduction
+
 The growth in business also lead to the growth in the need of E-billing applications using Virtual Wallets where all the information regarding the customer transanctions in that departmental store can be maintained online.
 Cutomer Billing System is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
 Customer Virtual Wallet System Features
@@ -12,17 +14,22 @@ The billing history of the customer is maintained.
 The customer can maintain some amount as balance to pay cash less as and when required in any brach of that departmental store.
 The customer can edit the information in his account as and when required.
 Services
+
 Service is the entity offered by the company and targeted to the customers.
 
 Accounts
+
 The customer account includes customer contact, profile information, account number, city and balance amount in the account.
 
 Payments
-Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
 
+Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
 Cost and Features
+
 System Definition
+
 Integration
+
 The Customer Virtual Wallet System interacts with :
 
 Banking applications
@@ -31,6 +38,7 @@ Authentication gateways
 
 
 Features Provided in the Program
+
 To create New Account
 To update the existing account
 To print information of all the customers
@@ -39,9 +47,13 @@ Adding Amount to Existing Customer's Wallet
 SWOT Analysis
 
 
+
 High and Low Level Requirements
+
 High Level Requirements
+
 ID	Description	Category	Status
+
 HR01	New customer can create account	Techinal	TBI
 HR02	Customer can mantain a Balance	Technical	TBI
 HR03	Customer information can be displayed	Technical	TBI
